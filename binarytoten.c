@@ -18,3 +18,6 @@ int main(){
     printf("Vase desetinne cislo: \n%d", decimal);
     return 0;
 }
+
+
+//Convert binary number to decimal number in programming C (used the Czech language)
